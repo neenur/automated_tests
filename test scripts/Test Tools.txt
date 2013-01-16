@@ -1,0 +1,10 @@
+Open Source Test tools for testing web apps projects are
+
+1) Selenium Server (Java)
+2) Sikulli
+
+
+To test api's
+
+1) YAML
+2) Python tests
